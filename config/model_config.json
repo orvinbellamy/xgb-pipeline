@@ -1,0 +1,11 @@
+{
+	"xgb": {
+		"learning_rate": 0.05161612249146729,
+		"n_estimators": 118,
+		"subsample": 0.7513341566850332,
+		"colsample_bytree": 0.7870784824506886,
+		"gamma": 0.09049082726087306,
+		"min_child_weight": 1,
+		"alpha": 0.01
+	}
+}
